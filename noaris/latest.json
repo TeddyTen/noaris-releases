@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "トレイtooltipにバージョン表示、エンジン0.1.1",
-  "pub_date": "2026-07-17T05:40:00Z",
+  "version": "0.1.2",
+  "notes": "更新チェックを24時間ごとの定期実行に",
+  "pub_date": "2026-07-17T06:10:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTY0xOK2xnMjZ1N09MdDVxQ0NSeGR1cmk4R0t5bWJnS3Q5WERvZVpkamljeEtYbDFiNjhCM3BaTTVDdDdNOG1iMXg1alVlOG1KWThaNDloMEtENjlsNUswdWdJY2xTUGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjY0NTM1CWZpbGU6Tm9hcmlzLmFwcC50YXIuZ3oKaDdCZFFLZU1yMUNvcVRpdmdrVStIaVpVdTQyRVZ6WGptQUNGQnNrZFQ0ZDVCREpOajZia3ZSNXQ0WTNmYXJSbzRRSDY4aFFvK3p2YXZSODFOTEsyQnc9PQo=",
-      "url": "https://github.com/TeddyTen/noaris-releases/releases/download/v0.1.1/Noaris_0.1.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTY0xOK2xnMjZ1N05SaTJ3dURmbXp2aXNneFdtYmphekhMZnQ0a21ibGNiNVhsWnB4cFRwU3lYb2xNZjlsampVZE96TU85eExzMnlhRjBENUdsVG1MQzZ0SDIyM1kxa2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjY3MzgwCWZpbGU6Tm9hcmlzLmFwcC50YXIuZ3oKQThMMlpKMGdxT2JGMko2azMxY3RVMUxXdVpESVFkaC9XUUFIMGRFQkF6eXVnazRjQUY3S1FmcEJQTmZkS3lsbURwM3hzV2c4aEhMVnlYVGZBRjBMQlE9PQo=",
+      "url": "https://github.com/TeddyTen/noaris-releases/releases/download/v0.1.2/Noaris_0.1.2_aarch64.app.tar.gz"
     }
   }
 }
